@@ -1,6 +1,6 @@
 # MLSA KIIT Hacktoberfest: Stable Diffusion Fine-tuning Project Code of Conduct
 
-## Our Pledge 
+## Our Pledge
 
 As members, contributors, and leaders of the MLSA KIIT community, we pledge to make participation in our Stable Diffusion fine-tuning project a positive and enriching experience for everyone. We aim to create an environment that fosters learning, innovation, and collaboration in the field of AI and machine learning.
 
